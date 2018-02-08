@@ -1,2 +1,2 @@
 # file-repositiry
-This is repository 
+This is text file
